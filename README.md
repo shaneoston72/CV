@@ -16,8 +16,22 @@ Five months later and after 16 weeks of Makers Academy, life is an exciting adve
 I invite you to read on as you consider my application. Let's discuss ways that a well-trained, eager junior developer can enhance your team.
 
 ### Skills
-Before Makers I could create the simplest of web pages with HTML and CSS. Today I can create full stack applications using technologies such as Ruby on Rails, Javascript and AngularJS (see my contribution to [**Leave**](https://github.com/shaneoston72/smartAlarm-mobile).  Before Makers Academy I could not tell you about RESTful APIs let alone create one. After Makers Academy I can create one and strap Angular and Ionic SPAs to it.
+Before Makers I could create the simplest of web pages with HTML and CSS. Today I can create full stack applications using technologies such as Ruby on Rails, Javascript and AngularJS (see my contribution to [**Leave**](https://github.com/shaneoston72/smartAlarm-mobile)).  Before Makers Academy I could not tell you about RESTful APIs let alone create one. After Makers Academy I can create one and strap Angular and Ionic SPAs to it.
 
+The number one skill that my cohort seems to agree that I possess is an ability to quickly sort through complex technologies to learn the key aspects of the tech and then convey this new knowledge to my teammates.
+
+I have training and hands-on work in object-oriented design principles and programming, and pair programming gained from 16 weeks of intense, focused study and practice.
+
+I bring a passion for elegantly designed, “clean” code and a creative, fun approach to coding to your team.
+
+I am eager to continue to expand my knowledge of my chosen profession by standing on the shoulders of senior developers and participating in a supportive, innovative development team.
+
+I have experience managing multi-year projects, from strategic planning throughout development, deployment, support, and training.
+
+I am a relatable, cross-cultural leader with dual citizenship in the UK and US and numerous collaborations with colleagues from UK and North America.
+
+
+### Projects
 Here's a sampling of some the work I participated in at Makers Academy. Projects are listed in chronological order to demonstrate the increasing complexity of the work we did.
 
 | Project                                                                                                                         | Summary                                                                                          | Technologies                                          |
