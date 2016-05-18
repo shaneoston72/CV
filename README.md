@@ -37,6 +37,8 @@ Here's a sampling of some the work I participated in at Makers Academy. Projects
 | [Post a Goat](https://github.com/shaneoston72/post-a-goat)                                                                      | A fun app built in Ruby on Rails and AngularJS that texts a goat to friends and family.          | Ruby on Rails API, AngularJS, Twilio API              |
 | Leave [Front end](https://github.com/shaneoston72/smartAlarm-mobile) [Back end](https://github.com/shaneoston72/smart_alarm_v2) | A mobile applicaiton that creates alarms that integrate real-time transit and weather data.      | Ruby on Rails API, AngularJS, Ionic, and various APIs |
 
+You can see all of work thus far at [Github](https://github.com/shaneoston72).
+
 ### <a name="education">Education</a>
 **Software Developer Bootcamp: MAKERS ACADEMY** (London, UK)  
 *1 dev bootcamp in Europe  /  16-week program  /  10% acceptance rate*
