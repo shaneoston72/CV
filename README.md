@@ -1,8 +1,10 @@
 ## Shane Oston Stowe
 ####Junior Full Stack Web Developer
-**Recent graduate of one of the most discerning dev bootcamps in the world, backed by a 15-year client-facing career as a business analyst.**
+**Recent graduate of one of the most discerning dev bootcamps in the world, backed by a 15-year client-facing career as a business analyst.**	Well-suited for agile development requiring deep and ongoing engagement with customers and stakeholders.
+
+[Profile](#profile)
 ____
-###Profile
+###<a name="profile">Profile</a>
 **Code saved my life.**
 
 It was October 2015. I had lost the energy and motivation that I ordinarily brought to my work and my life. My once exciting career of business analysis and CRM implementation had become ordinary and unfulfilling. Life in general had become tedious. **It was bad. Really bad**.
@@ -18,7 +20,7 @@ I invite you to read on as you consider my application. Let's discuss ways that 
 ### Skills
 Before Makers I could create the simplest of web pages with HTML and CSS. Today I can create full stack applications using technologies such as Ruby on Rails, Javascript and AngularJS (see my contribution to [**Leave**](https://github.com/shaneoston72/smartAlarm-mobile)).  Before Makers Academy I could not tell you about RESTful APIs let alone create one. After Makers Academy I can create one and strap Angular and Ionic SPAs to it.
 
-The number one skill that my cohort seems to agree that I possess is an ability to quickly sort through complex technologies to learn the key aspects of the tech and then convey this new knowledge to my teammates.
+The number one skill that my cohort agrees that I possess is an ability to quickly sort through complex technologies to learn the key aspects and then convey this new knowledge to my teammates.
 
 I have training and hands-on work in object-oriented design principles and programming, and pair programming gained from 16 weeks of intense, focused study and practice.
 
@@ -29,7 +31,6 @@ I am eager to continue to expand my knowledge of my chosen profession by standin
 I have experience managing multi-year projects, from strategic planning throughout development, deployment, support, and training.
 
 I am a relatable, cross-cultural leader with dual citizenship in the UK and US and numerous collaborations with colleagues from UK and North America.
-
 
 ### Projects
 Here's a sampling of some the work I participated in at Makers Academy. Projects are listed in chronological order to demonstrate the increasing complexity of the work we did.
@@ -72,3 +73,6 @@ Joined forces with talent team known for salvaging failed multimillion-dollar en
 Led internal technology implementations and development initiatives for a thriving management consulting firm.
 * CRM Implementation: Handpicked to install and customize Clarify CRM, which required quick mastery of Sun, Oracle, UNIX, and BEA, full implementation, and training for nationwide staff - in support of massive 5X growth.
 * Support Automation Platform: Designed a web portal linked with Lucent-based ACD system.
+
+### Interests
+Skydiver, single engine pilot, knitter (yes knitting), traveler to historical locations
