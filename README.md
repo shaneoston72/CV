@@ -1,21 +1,17 @@
 ## Shane Oston Stowe
-####Junior Full Stack Web Developer
+#### Junior Full Stack Web Developer
 **Recent graduate of one of the most discerning dev bootcamps in the world, backed by a 15-year client-facing career as a business analyst.**	Well-suited for agile development requiring deep and ongoing engagement with customers and stakeholders.
 
 [Profile](#profile) -- [Skills](#skills) -- [Projects](#projects) -- [Education](#education) -- [Experience](#experience) -- [Interests](#interests)
 ____
 ###<a name="profile">Profile</a>
-**Code saved my life.**
+**I am living my dream.**
 
-It was October 2015. I had lost the energy and motivation that I ordinarily brought to my work and my life. My once exciting career of business analysis and CRM implementation had become ordinary and unfulfilling. Life in general had become tedious. **It was bad. Really bad**.
+I had been growing increasingly disillusioned with my career as a Business Analyst and Project Manager. My commitment to the field lacked the motivation it once held for me. Following a health scare in October 2015, I reevaluated my life and concluded that drastic action was needed to reenergise my career and life. As I explored various options, my lifelong dreams to live in the United Kingdom and to be a software developer kept coming up. Despite advice from family and friends, **I sold everything I owned** - a car, a house and all but two suitcases of personal belongings -and gambled on a **new life** in the UK training as a software developer.
 
-I had the intuition that drastic action was required to reenergise my life. As I considered my options, my life-long dreams to live in the United Kingdom and to be a software developer recurred. Both represented radical change and, by any rational measure of prudence, were ill-advised. Despite this, **I sold everything I owned** - a car, a house and all but two suitcases of personal belongings -and gambled on a **new life** in the UK training as a software developer.
+Five months later and after 16 weeks of Makers Academy, **life is an exciting adventure** again. I spend my days creating applications that expand my new knowledge of web development and software craftsmanship. I am part of a community of creative, really smart people that complement my creativity and stimulate my growth as a software developer. Today **I am a software developer**.
 
-Five months later and after 16 weeks of Makers Academy, life is an exciting adventure. Every day I bound out of bed and hurtle myself into the world of coding. I spend my days creating applications that expand my new knowledge of web development and software craftsmanship. I am part of a community of creative, really smart people that complement by curiosity and stimulate my growth as a software developer. Today **I am a software developer**.
-
-**I am living the dream**. The next logical step is to join an innovative team of brilliant developers to which I can apply my new knowledge of web development. I am eager to create elegant contributions to code that enhances the lives and experience of its users.
-
-I invite you to read on as you consider my application. Let's discuss ways that a well-trained, eager junior developer can enhance your team.
+The next step in my rebirth as a software developer is to join an innovative team of brilliant developers to which I can apply my new knowledge of web development. I am eager to create elegant contributions to code that enhances the lives and experience of its users.
 
 ### <a name="skills">Skills</a>
 Before Makers I could create the simplest of web pages with HTML and CSS. Today I can create full stack applications using technologies such as Ruby on Rails, Javascript and AngularJS (see my contribution to [**Leave**](https://github.com/shaneoston72/smartAlarm-mobile)).  Before Makers Academy I could not tell you about RESTful APIs let alone create one. After Makers Academy I can create one and strap Angular and Ionic SPAs to it.
@@ -23,8 +19,10 @@ Before Makers I could create the simplest of web pages with HTML and CSS. Today 
 ##### Knowledge Acquisition & Training
 The number one skill that my cohort agrees that I possess is an ability to quickly sort through complex technologies to learn the key aspects and then convey this new knowledge to my teammates.
 
-#### Facilitation and Public Speaking
-Every role in my professional experience required leadership of joint-application design sessions with C-level executives and end-users.
+I have regularly led training sessions in which I taught complex technical subjects to non-technical users.
+
+##### Facilitation and Public Speaking
+Every role in my professional experience required leadership of joint-application design sessions with C-level executives and end-users.  This role required conflict resolution and facilitation of large, opinionated conversations.
 
 ##### Project Management and Leadership
 I have experience managing multi-year projects, from strategic planning throughout development, deployment, support, and training.
