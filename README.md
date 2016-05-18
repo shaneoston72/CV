@@ -2,7 +2,7 @@
 ####Junior Full Stack Web Developer
 **Recent graduate of one of the most discerning dev bootcamps in the world, backed by a 15-year client-facing career as a business analyst.**	Well-suited for agile development requiring deep and ongoing engagement with customers and stakeholders.
 
-[Profile](#profile)
+[Profile](#profile) -- [Skills](#skills) -- [Projects](#projects) -- [Education](#education) -- [Experience](#experience) -- [Interests](#interests)
 ____
 ###<a name="profile">Profile</a>
 **Code saved my life.**
@@ -17,22 +17,19 @@ Five months later and after 16 weeks of Makers Academy, life is an exciting adve
 
 I invite you to read on as you consider my application. Let's discuss ways that a well-trained, eager junior developer can enhance your team.
 
-### Skills
+### <a name="skills">Skills</a>
 Before Makers I could create the simplest of web pages with HTML and CSS. Today I can create full stack applications using technologies such as Ruby on Rails, Javascript and AngularJS (see my contribution to [**Leave**](https://github.com/shaneoston72/smartAlarm-mobile)).  Before Makers Academy I could not tell you about RESTful APIs let alone create one. After Makers Academy I can create one and strap Angular and Ionic SPAs to it.
 
+##### Knowledge Acquisition & Training
 The number one skill that my cohort agrees that I possess is an ability to quickly sort through complex technologies to learn the key aspects and then convey this new knowledge to my teammates.
 
-I have training and hands-on work in object-oriented design principles and programming, and pair programming gained from 16 weeks of intense, focused study and practice.
+#### Facilitation and Public Speaking
+Every role in my professional experience required leadership of joint-application design sessions with C-level executives and end-users.
 
-I bring a passion for elegantly designed, “clean” code and a creative, fun approach to coding to your team.
-
-I am eager to continue to expand my knowledge of my chosen profession by standing on the shoulders of senior developers and participating in a supportive, innovative development team.
-
+##### Project Management and Leadership
 I have experience managing multi-year projects, from strategic planning throughout development, deployment, support, and training.
 
-I am a relatable, cross-cultural leader with dual citizenship in the UK and US and numerous collaborations with colleagues from UK and North America.
-
-### Projects
+##### <a name="projects">Projects</a>
 Here's a sampling of some the work I participated in at Makers Academy. Projects are listed in chronological order to demonstrate the increasing complexity of the work we did.
 
 | Project                                                                                                                         | Summary                                                                                          | Technologies                                          |
@@ -42,7 +39,7 @@ Here's a sampling of some the work I participated in at Makers Academy. Projects
 | [Post a Goat](https://github.com/shaneoston72/post-a-goat)                                                                      | A fun app built in Ruby on Rails and AngularJS that texts a goat to friends and family.          | Ruby on Rails API, AngularJS, Twilio API              |
 | Leave [Front end](https://github.com/shaneoston72/smartAlarm-mobile) [Back end](https://github.com/shaneoston72/smart_alarm_v2) | A mobile applicaiton that creates alarms that integrate real-time transit and weather data.      | Ruby on Rails API, AngularJS, Ionic, and various APIs |
 
-### Education
+### <a name="education">Education</a>
 **Software Developer Bootcamp: MAKERS ACADEMY** (London, UK)  
 *1 dev bootcamp in Europe  /  16-week program  /  10% acceptance rate*
 
@@ -52,7 +49,7 @@ Here's a sampling of some the work I participated in at Makers Academy. Projects
 **BA in Mathematics: SOUTHERN NEW HAMPSHIRE UNIVERSITY** (Manchester, NH)  
 *Additional Coursework in Computer and Information Science*
 
-### Professional experience
+### <a name="experience">Professional experience</a>
 **Systems Analyst: OCTOCLEAN FRANCHISE SYSTEMS**  (Riverside, CA) 2006 – 2016  
 Headed development of 3 integrated, web-based systems, leading to10X growth for this building maintenance franchisor.  
 * CRM Implementation: Remapped back-office system, desktop apps, and operating policies to work through new CRM which linked Service, Sales, Scheduling, Contracts, and Accounting for the first time.
