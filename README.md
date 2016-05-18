@@ -7,7 +7,7 @@ ____
 
 It was October 2015. I had lost the energy and motivation that I ordinarily brought to my work and my life. My once exciting career of business analysis and CRM implementation had become ordinary and unfulfilling. Life in general had become tedious. **It was bad. Really bad**.
 
-I had the intuition that drastic action was required to reenergise my life. As I considered my options, my life-long dreams to live in the United Kingdom and to be a software developer recurred. Both represented radical change and, by any rational measure of prudence, were ill-advised. Despite this, I sold everything I owned - a car, a house and all but two suitcases of personal belongings -and gambled on a new life in the UK training as a software developer.
+I had the intuition that drastic action was required to reenergise my life. As I considered my options, my life-long dreams to live in the United Kingdom and to be a software developer recurred. Both represented radical change and, by any rational measure of prudence, were ill-advised. Despite this, **I sold everything I owned** - a car, a house and all but two suitcases of personal belongings -and gambled on a **new life** in the UK training as a software developer.
 
 Five months later and after 16 weeks of Makers Academy, life is an exciting adventure. Every day I bound out of bed and hurtle myself into the world of coding. I spend my days creating applications that expand my new knowledge of web development and software craftsmanship. I am part of a community of creative, really smart people that complement by curiosity and stimulate my growth as a software developer. Today **I am a software developer**.
 
