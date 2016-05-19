@@ -77,4 +77,4 @@ Led internal technology implementations and development initiatives for a thrivi
 * Support Automation Platform: Designed a web portal linked with Lucent-based ACD system.
 
 ### Interests
-Skydiver, single engine pilot, knitter (yes knitting), traveler to historical locations
+Skydiver, single engine pilot, knitter (yes knitting), world traveler, adventurer
