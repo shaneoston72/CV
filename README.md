@@ -7,14 +7,17 @@ ____
 ###<a name="profile">Profile</a>
 **I am living my dream.**
 
-I had been growing increasingly disillusioned with my career as a Business Analyst and Project Manager. My commitment to the field lacked the motivation it once held for me. Following a health scare in October 2015, I reevaluated my life and concluded that drastic action was needed to reenergise my career and life. As I explored various options, my lifelong dreams to live in the United Kingdom and to be a software developer kept coming up. Despite advice from family and friends, **I sold everything I owned** - a car, a house and all but two suitcases of personal belongings -and gambled on a **new life** in the UK training as a software developer.
+I am a recent graduate of one of the most discerning dev bootcamps in the world, backed by a 15-year client-facing career as a business analyst. I moved from a lucrative, “safe” career in the United States to realise a lifelong dream to live in the United Kingdom and to pursue a career in software development.
 
-Five months later and after 16 weeks of Makers Academy, **life is an exciting adventure** again. I spend my days creating applications that expand my new knowledge of web development and software craftsmanship. I am part of a community of creative, really smart people that complement my creativity and stimulate my growth as a software developer. Today **I am a software developer**.
+I am well suited for agile development, pair programming, and test-driven development (TDD).  I am professionally trained to immediately contribute to front-end and back-end development.
 
-The next step in my rebirth as a software developer is to join an innovative team of brilliant developers to which I can apply my new knowledge of web development. I am eager to create elegant contributions to code that enhances the lives and experience of its users.
+I am eager to leverage my application project management and design acumen while evolving my new development skills. The next step in my evolution is to join an innovative team of brilliant developers to which I can apply my new knowledge of web development.
 
 ### <a name="skills">Skills</a>
-Before Makers I could create the simplest of web pages with HTML and CSS. Today I can create full stack applications using technologies such as Ruby on Rails, Javascript and AngularJS (see my contribution to [**Leave**](https://github.com/shaneoston72/smartAlarm-mobile)).  Before Makers Academy I could not tell you about RESTful APIs let alone create one. After Makers Academy I can create one and strap Angular and Ionic SPAs to it.
+##### Application Design and Project Management
+I have 15 years’ experience in application design and management of projects requiring deep and ongoing engagement with customers and stakeholders. My role typically was that of Solution Architect in which I acted as a shepherd of the customer's requirements through development, test, and training.
+
+I have broad experience managing multi-year projects, from strategic planning throughout development, deployment, support, and training.
 
 ##### Knowledge Acquisition & Training
 The number one skill that my cohort agrees that I possess is an ability to quickly sort through complex technologies to learn the key aspects and then convey this new knowledge to my teammates.
@@ -24,10 +27,12 @@ I have regularly led training sessions in which I taught complex technical subje
 ##### Facilitation and Public Speaking
 Every role in my professional experience required leadership of joint-application design sessions with C-level executives and end-users.  This role required conflict resolution and facilitation of large, opinionated conversations.
 
-##### Project Management and Leadership
-I have experience managing multi-year projects, from strategic planning throughout development, deployment, support, and training.
+##### Solution Design and Analysis
+I have a sixth sense for identifying bottlenecks and validating/assessing solutions. I also have a keen ability to develop technical solutions to business problems.
 
-##### <a name="projects">Projects</a>
+##### <a name="projects">Development Projects</a>
+Before Makers I could create the simplest of web pages with HTML and CSS. Today I can create full stack applications using technologies such as Ruby on Rails, Javascript and AngularJS (see my contribution to [**Leave**](https://github.com/shaneoston72/smartAlarm-mobile)).  Before Makers Academy I could not tell you about RESTful APIs let alone create one. After Makers Academy I can create one and strap Angular and Ionic SPAs to it.
+
 Here's a sampling of some the work I participated in at Makers Academy. Projects are listed in chronological order to demonstrate the increasing complexity of the work we did.
 
 | Project                                                                                                                         | Summary                                                                                          | Technologies                                          |
