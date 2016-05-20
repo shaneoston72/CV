@@ -7,7 +7,7 @@ ____
 ###<a name="profile">Profile</a>
 **I am living my dream.**
 
-I am a recent graduate of one of the most discerning dev bootcamps in the world, backed by a 15-year client-facing career as a business analyst. I moved from a lucrative, “safe” career in the United States to realise a lifelong dream to live in the United Kingdom and to pursue a career in software development.
+I am a recent graduate of one of the most discerning dev bootcamps in the world, backed by a 15-year client-facing career as a business analyst. I moved from a lucrative, “safe” career in California to realise a lifelong dream to live in the United Kingdom and to pursue a career in software development.
 
 I am well suited for agile development, pair programming, and test-driven development (TDD).  I am professionally trained to immediately contribute to front-end and back-end development.
 
