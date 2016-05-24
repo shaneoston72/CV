@@ -9,9 +9,9 @@ ____
 
 I am a recent graduate of one of the most discerning dev bootcamps in the world, backed by a 15-year client-facing career as a business analyst. I moved from a lucrative, “safe” career in California to realise a lifelong dream to live in the United Kingdom and to pursue a career in software development.
 
-I am well suited for agile development, pair programming, and test-driven development (TDD).  I am professionally trained to immediately contribute to front-end and back-end development.
+I am professionally trained in agile development, pair programming, and test-driven development (TDD).  I am well suited to immediately contribute to front-end and back-end development. I am proficient on object-oriented design and programming. Most importantly, I am confident in my ability to quickly learn any new technology.
 
-I am eager to leverage my application project management and design acumen while evolving my new development skills. The next step in my evolution is to join an innovative team of brilliant developers to which I can apply my new knowledge of web development.
+I am eager to leverage my application project management and design acumen while evolving my new development skills. The next step in my evolution is to join an innovative team of brilliant developers to which I can apply my new knowledge of web development while learning all I can as quickly as I can.
 
 ### <a name="skills">Skills</a>
 ##### Application Design and Project Management
